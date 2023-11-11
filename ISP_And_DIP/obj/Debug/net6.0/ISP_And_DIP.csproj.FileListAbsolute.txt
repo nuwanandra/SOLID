@@ -1,0 +1,14 @@
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\bin\Debug\net6.0\ISP_And_DIP.exe
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\bin\Debug\net6.0\ISP_And_DIP.deps.json
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\bin\Debug\net6.0\ISP_And_DIP.runtimeconfig.json
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\bin\Debug\net6.0\ISP_And_DIP.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\bin\Debug\net6.0\ISP_And_DIP.pdb
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\obj\Debug\net6.0\ISP_And_DIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\obj\Debug\net6.0\ISP_And_DIP.AssemblyInfoInputs.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\obj\Debug\net6.0\ISP_And_DIP.AssemblyInfo.cs
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\obj\Debug\net6.0\ISP_And_DIP.csproj.CoreCompileInputs.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\obj\Debug\net6.0\ISP_And_DIP.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\obj\Debug\net6.0\refint\ISP_And_DIP.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\obj\Debug\net6.0\ISP_And_DIP.pdb
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\obj\Debug\net6.0\ISP_And_DIP.genruntimeconfig.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\ISP_And_DIP\obj\Debug\net6.0\ref\ISP_And_DIP.dll

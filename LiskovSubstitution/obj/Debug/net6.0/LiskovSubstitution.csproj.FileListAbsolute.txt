@@ -1,0 +1,14 @@
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.exe
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.deps.json
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.runtimeconfig.json
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.pdb
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfoInputs.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfo.cs
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.CoreCompileInputs.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\obj\Debug\net6.0\refint\LiskovSubstitution.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.pdb
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.genruntimeconfig.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\SOLID\LiskovSubstitution\obj\Debug\net6.0\ref\LiskovSubstitution.dll
